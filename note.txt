@@ -1,0 +1,25 @@
+BDiF
+skype: ajtsheppard
+
+HPC: zengye.wang  
+temp$82QR
+
+3. CUNY HPCC Cluster
+Chizen
+chizen.csi.cuny.edu (gateway)
+Penzias
+penzias.csi.cuny.edu
+
+
+ssh zengye.wang@chizen.csi.cuny.edu (gateway)
+ssh zengye.wang@penzias.csi.cuny.edu
+
+
+Classroom: 9-140
+
+
+https://www.dropbox.com/s/1ym6uz2uxxhiyiy/assignmentA-sample-data.zip?dl=0
+
+andrew.peterson@baruch
+skype: denver_andrew
+

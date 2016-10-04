@@ -1,0 +1,30 @@
+<html>
+
+<head>
+<title>JSentiment</title>
+</head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<!-- Hack: Better to load with AJAX -->
+<script type="text/javascript" src="../AFINN/afinn.json"></script>
+<script type="text/javascript" src="../LoughranMcDonald/lm.json"></script>
+
+<script type="text/javascript" src="../sentiment.js"></script>
+
+<body>
+	<h1>Tests</h1>
+
+	<p id="tokenizeInput">I like bananas. Bananas are good.</p>
+	<br>
+	<h3>Tokenize</h3>
+	<p id="tokenized"></p>
+	<h3>AFINN Sentiment</h3>
+	<p id="afinn"></p>
+	<h3>Loughran McDonald Sentiment</h3>
+	<p>Positive: <p id="lmPos"></p> </p>
+	<p>Negative: <p id="lmNeg"></p> </p>
+</body>
+
+<script type="text/javascript" src="test.js"></script>
+
+</html>
